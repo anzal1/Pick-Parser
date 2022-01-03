@@ -1,0 +1,6 @@
+spacy==2.0.16
+sklearn
+pytesseract
+pdf2image
+pillow
+flask
